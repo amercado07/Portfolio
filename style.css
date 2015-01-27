@@ -6,7 +6,7 @@
   
   nav a {
     text-decoration: none;
-    Color:#858585;
+    Color:#40403B;
     border radious: 2px;
     margin: 5px;
     padding: 5px;
@@ -16,7 +16,7 @@
   }
   
   nav a:hover{
-   background-color: #E88E0C;
+   background-color: #ABAB9E;
   
   }
   
