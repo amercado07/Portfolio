@@ -20,6 +20,10 @@
   
   }
   
+  header{
+    border-radius: 50%;
+  }
+  
   h2{
      color: #000000;
   }
