@@ -5,12 +5,13 @@
   }
   
   nav a {
-    text-descoration: none;
+    text-decoration: none;
     Color:#000000;
     border radious: 2px;
     margin: 5px;
     padding: 5px;
     display: inline-block;
+    
   }
   
   h2{
