@@ -27,6 +27,9 @@
   header img {
     border-radius: 50%;
   }
+  header h1{
+    font-family: 'Trade Winds', cursive;
+  }
   
   h2{
      color: #000000;
