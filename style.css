@@ -6,11 +6,12 @@
   
   nav a {
     text-decoration: none;
-    Color:#000000;
+    Color:#858585;
     border radious: 2px;
     margin: 5px;
     padding: 5px;
     display: inline-block;
+    transition: 1s all;
     
   }
   
