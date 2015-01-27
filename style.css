@@ -41,13 +41,15 @@
   section{
     text-align:center;
     background-image: url(http://41.media.tumblr.com/c70a55f31ec582ed08e812170fa821e4/tumblr_ngmtcaHIex1ta0hnbo1_1280.jpg);
-    height:200px;
+    height: 400px;
     background-size: cover;
   }
   button {
+    color: #FFF;
     background-color:red;
-    color:white;
-    border-radius:2px;
-    transition:1s;
+    border: none;
+    border-radius:3px;
+    padding:5px;
+    margin-top:40px;
   }
 
