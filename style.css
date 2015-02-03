@@ -39,6 +39,9 @@
      color: #000000;
   }
   
+  p {
+    margin:0;
+  }
   section{
     text-align:center;
     background-image: url(https://farm8.staticflickr.com/7076/13611365253_7cdd9a4d08_b.jpg);
