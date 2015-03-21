@@ -1,7 +1,17 @@
 <!doctype html>
 <html>
 <head>
-
+<script>
+if(window.top==window){
+ //not inside iframe
+} else {
+    if(parent.parent.someFunction){
+       parent.parent.someFunction();
+    } else {
+       alert("framing is not allowed")
+    }
+}
+</script>
 <link href="data:image/x-icon;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAA
 AAAAAAD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A
 ////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD/
