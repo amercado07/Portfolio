@@ -99,12 +99,13 @@ ol { margin-left: 36px; }
   }
 
   
- 
   
   #features{
     background-image: none;
     background-color: rgba(255, 255, 255, 0.75);
     height: 200px;
+    padding:50px
+    box-sizing: border-box;
   }
     p {
  color:white ;
