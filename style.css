@@ -109,9 +109,9 @@ ol { margin-left: 36px; }
     p {
  color:white ;
  background-color: black; font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
- margin: 3px;
- padding: 12px;
- width: 250px;
+ margin: 15px;
+ padding: 20px;
+ width: 200px;
  display: inline-block;
  height:50px;
  transition: 1s all;
