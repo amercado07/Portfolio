@@ -113,13 +113,12 @@ ol { margin-left: 36px; }
  padding: 20px;
  width: 200px;
  display: inline-block;
- height:200px;
  transition: 1s all;
  text-align: center;
  }
  
  p:hover{
-   transform: rotate(7deg);
+   transform: rotate(-7deg);
  }
  
   button {
