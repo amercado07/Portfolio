@@ -106,7 +106,6 @@ ol { margin-left: 36px; }
     height: 250px;
     padding:50px
     box-sizing: border-box;
-    box-align: center;
   }
     p {
  color:white ;
@@ -117,7 +116,6 @@ ol { margin-left: 36px; }
  display: inline-block;
  transition: 1s all;
  text-align: center;
- box-align: center;
  }
  
  p:hover{
