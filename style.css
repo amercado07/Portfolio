@@ -117,10 +117,7 @@ ol { margin-left: 36px; }
  color:white ;
  background-color: black; font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
  margin: 15px;
- padding-top: 50px;
- padding-right: 50px;
- padding-bottom: 50px;
- padding-left: 50px;
+ padding: 50px;
  width: 300px;
  display: inline-block;
  transition: 1s all;
